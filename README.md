@@ -6,7 +6,7 @@ Welcome to my collection of Python solutions for HackerRank problems . 🌟
 
 **Problem Link**: [Click Here](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem?isFullScreen=true)
 
-**Solution**: [arraysum.py](climbing_the_leaderboard.py)
+**Solution**: [climbing_the_leaderboard.py](climbing_the_leaderboard.py)
 
 ## 2. Counting Valleys
 
